@@ -62,7 +62,7 @@ pip install pandas numpy scikit-learn beautifulsoup4
 
 ### **GitHub Repository**
 
-* **Link to GitHub Repository**: [MovieRecommendationSystem]([https://github.com/yourusername/MovieRecommendationSystem](https://github.com/Quaangg/Recommendation-movie-system/))
+* **Link to GitHub Repository**: [MovieRecommendationSystem](https://github.com/Quaangg/Recommendation-movie-system/)
 
 ### **Project Duration**
 
